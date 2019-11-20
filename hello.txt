@@ -1,1 +1,1 @@
-hello [object Object]
+hello 48510

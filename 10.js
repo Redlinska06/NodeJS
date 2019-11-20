@@ -8,7 +8,7 @@
 // setTimeout(function() {
 //   let helloMessage;
 //   if (user) {
-//     helloMessage = "hello " + user;
+//     helloMessage = "hello " + user.username;
 //   } else {
 //     helloMessage = "hello stranger";
 //   }
