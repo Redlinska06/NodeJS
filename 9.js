@@ -9,7 +9,7 @@ const user = os.userInfo();
 
 setTimeout(function() {
   if (user) {
-    console.log("hello", user);
+    console.log("hello", user.username);
   } else {
     console.log("hello stranger");
   }
